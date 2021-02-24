@@ -1,10 +1,8 @@
 # Домашние задания на курсе «1С-программист»
 ## Содержание:
-<ul>
-<li>[Блок А. Настройки и справочники](https://github.com/netology-code/1c-homeworks/blob/master/README.md#pushpin-%D0%B1%D0%BB%D0%BE%D0%BA-%D0%B0-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8-%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8)</li>
-<li>[Блок Б. Прикладная разработка](https://github.com/netology-code/1c-homeworks/blob/master/README.md#pushpin-%D0%B1%D0%BB%D0%BE%D0%BA-%D0%B1-%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0)</li>
-<li>[Блок В. Учет и совместная работа](https://github.com/netology-code/1c-homeworks/blob/master/README.md#pushpin-%D0%B1%D0%BB%D0%BE%D0%BA-b-%D1%83%D1%87%D0%B5%D1%82-%D0%B8-%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0)</li>
-  </ul>
+[Блок А. Настройки и справочники](https://github.com/netology-code/1c-homeworks/blob/master/README.md#pushpin-%D0%B1%D0%BB%D0%BE%D0%BA-%D0%B0-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8-%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8)
+[Блок Б. Прикладная разработка](https://github.com/netology-code/1c-homeworks/blob/master/README.md#pushpin-%D0%B1%D0%BB%D0%BE%D0%BA-%D0%B1-%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0)
+[Блок В. Учет и совместная работа](https://github.com/netology-code/1c-homeworks/blob/master/README.md#pushpin-%D0%B1%D0%BB%D0%BE%D0%BA-b-%D1%83%D1%87%D0%B5%D1%82-%D0%B8-%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0)
 # :pushpin: Блок А. Настройки и справочники
 ## Среда разработки и конфигурация		
 1. [Введение в платформу]( homework-1-1.md)
