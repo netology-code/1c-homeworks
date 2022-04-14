@@ -73,3 +73,6 @@
 ```
 
 Обновить конфигурацию.
+
+[Результат выполнения домашнего задания](https://github.com/netology-code/1c-homeworks/blob/master/Examples/homework%205-1%20example.md)
+
