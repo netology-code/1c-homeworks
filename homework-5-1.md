@@ -74,5 +74,5 @@
 
 Обновить конфигурацию.
 
-### Подсказка: [результат выполнения домашнего задания](https://github.com/netology-code/1c-homeworks/blob/master/Examples/homework%205-1%20example.md)
+### Подсказка: [результат выполнения домашнего задания](Examples/homework-5-1-example.md)
 
