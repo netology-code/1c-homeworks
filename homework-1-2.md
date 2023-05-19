@@ -44,7 +44,7 @@
 <details>
     <summary>Подсказка</summary>
 
- - ![](https://u.netology.ru/backend/uploads/lms/attachments/files/data/54589/%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_1.png)
+ ![](https://u.netology.ru/backend/uploads/lms/attachments/files/data/54589/%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_1.png)
   
   </details>
 
@@ -69,7 +69,7 @@
 <details>
     <summary>Подсказка</summary>
   
-- ![](https://u.netology.ru/backend/uploads/lms/attachments/files/data/54590/%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_2.1.png)
+![](https://u.netology.ru/backend/uploads/lms/attachments/files/data/54590/%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_2.1.png)
 
 </details>
 
@@ -81,17 +81,20 @@
 - Перейти к ошибке можно через двойной щелчок левой кнопки мыши, по строке ошибки в Служебных сообщениях. 
 - Есть процедуры, которые прописаны в свойствах формы. Если эту процедуру удалить целиком, то надо не забыть очистить обращение к ней в Событиях. Очистить можно просто выделив название и нажать кнопку Del.
 
-- ![](https://u.netology.ru/backend/uploads/lms/attachments/files/data/54591/%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_2.2.png)
+![](https://u.netology.ru/backend/uploads/lms/attachments/files/data/54591/%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_2.2.png)
   
   </details>
   
 4. Сохраните исправленную конфигурацию в .cf и предъявите как результат.
 
-### Рекомендации
+<details>
+    <summary>Рекомендации</summary>
 
-В этой задаче для исправления ошибки **"Отсутствует обработчик:..."** необходимо в свойствах элемента формы, на который ругается проверка, очистить имя обработчика:
+В этой задаче для исправления ошибки **"Отсутствует обработчик:..."** необходимо в свойствах элемента формы, на который ругается проверка, очистить имя обработчика.
 
 ![Пример обработчика события](img/homework-1-2-1.png)
+
+  </details>
 
 ## Задача 4 "Обновление конфигурации"
 
