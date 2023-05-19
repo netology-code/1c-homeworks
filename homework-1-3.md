@@ -42,7 +42,7 @@
 
 - Функциональная опция включает и выключает видимость объектов метаданных. Поэтому надо внимательно следить, что включается в состав и добавлять только необходимое. Не добавлять Справочник целиком, а только отдельные реквизиты. 
 
-- ![](https://u.netology.ru/backend/uploads/lms/attachments/files/data/54585/%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_3.png)
+ ![](https://u.netology.ru/backend/uploads/lms/attachments/files/data/54585/%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_3.png)
 
 </details>
     
@@ -53,7 +53,7 @@
 
 - В актуальных платформах команда «Все функции» называется «Функции для технического специалиста…»
 
-- ![](https://u.netology.ru/backend/uploads/lms/attachments/files/data/54588/%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_3.1.jpg)
+ ![](https://u.netology.ru/backend/uploads/lms/attachments/files/data/54588/%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_3.1.jpg)
 
 </details>
 
