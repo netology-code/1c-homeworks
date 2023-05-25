@@ -36,12 +36,12 @@
 
 # Справочники и документы
 
-4.1 [Ссылочные типы](SID/1_ReferenceTypes.md)
-4.2 [Табличные части](SID/2_Tables.md)
-4.3 [Программная работа со Ссылочными типами. Обновление конфигурации](SID/3_ConfigUpdate.md)
-4.4 [Форма объекта](SID/4_ObjectForm.md)
-4.5 [Формы списка и выбора](SID/5_ListForm.md)
-4.6 [Иерархия и подчинение](SID/6_Hierarchy.md)
+4.1 [Ссылочные типы](https://github.com/netology-code/1c-homeworks/blob/branch-32/NewModules/SID/1_ReferenceTypes.md)
+4.2 [Табличные части](https://github.com/netology-code/1c-homeworks/blob/branch-32/NewModules/SID/2_Tables.md)
+4.3 [Программная работа со Ссылочными типами. Обновление конфигурации](https://github.com/netology-code/1c-homeworks/blob/branch-32/NewModules/SID/3_ConfigUpdate.md)
+4.4 [Форма объекта](https://github.com/netology-code/1c-homeworks/blob/branch-32/NewModules/SID/4_ObjectForm.md)
+4.5 [Формы списка и выбора](https://github.com/netology-code/1c-homeworks/blob/branch-32/NewModules/SID/5_ListForm.md)
+4.6 [Иерархия и подчинение](https://github.com/netology-code/1c-homeworks/blob/branch-32/NewModules/SID/6_Hierarchy.md)
 
 # Регистры сведений и накоплений
 
