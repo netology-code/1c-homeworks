@@ -51,15 +51,15 @@
 
 # Регистры сведений и накоплений
 
-5.1 [Регистры сведений](RSN/1_InfoRg.md)
+5.1 [Регистры сведений](https://github.com/netology-code/1c-homeworks/blob/branch-32/NewModules/RSN/1_InfoRg.md)
 
-5.2 [Запись и чтение регистров cведений](RSN/2_InfoRgReadWright.md)
+5.2 [Запись и чтение регистров cведений](https://github.com/netology-code/1c-homeworks/blob/branch-32/NewModules/RSN/2_InfoRgReadWright.md)
 
-5.3 [Регистры накопления, проведение документов](RSN/3_AccumRg.md)
+5.3 [Регистры накопления, проведение документов](https://github.com/netology-code/1c-homeworks/blob/branch-32/NewModules/RSN/3_AccumRg.md)
 
-5.4 [Виртуальные таблицы регистров накопления](RSN/4_VirtualTables.md)
+5.4 [Виртуальные таблицы регистров накопления](https://github.com/netology-code/1c-homeworks/blob/branch-32/NewModules/RSN/4_VirtualTables.md)
 
-5.5 [Расчет себестоимости и последовательности документов](RSN/5_CostPrice.md)
+5.5 [Расчет себестоимости и последовательности документов](https://github.com/netology-code/1c-homeworks/blob/branch-32/NewModules/RSN/5_CostPrice.md)
 
 # Работа с файлами
 
