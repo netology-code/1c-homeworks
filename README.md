@@ -63,13 +63,13 @@
 
 # Работа с файлами
 
-6.1 [Файлы](RSF/1_Files.md)
+6.1 [Файлы](https://github.com/netology-code/1c-homeworks/blob/branch-32/NewModules/RSF/1_Files.md)
 
-6.2 [Работа с файлами на сервере, Двоичные данные](RSF/2_BinaryData.md)
+6.2 [Работа с файлами на сервере, Двоичные данные](https://github.com/netology-code/1c-homeworks/blob/branch-32/NewModules/RSF/2_BinaryData.md)
 
-6.3 [Табличные документы, работа с макетами](RSF/3_TableDocs.md)
+6.3 [Табличные документы, работа с макетами](https://github.com/netology-code/1c-homeworks/blob/branch-32/NewModules/RSF/3_TableDocs.md)
 
-6.4 [Хранилище значения, потоки](RSF/4_DataStorage.md)  
+6.4 [Хранилище значения, потоки](https://github.com/netology-code/1c-homeworks/blob/branch-32/NewModules/RSF/4_DataStorage.md)  
 
 ## :trophy: Диплом блока Б 
 [Диплом блока Б "Сделки и деньги"](diploma-b.md)
