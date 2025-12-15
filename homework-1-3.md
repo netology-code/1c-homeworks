@@ -26,7 +26,7 @@
 <details>
     <summary>Подсказка</summary>
 
-- Как создать маску для телефона [смотрите здесь](https://ironskills.by/tpost/2jxf2am191-uchimsya-rabotat-s-maskoi-telefona)
+- Как создать маску для телефона [смотрите здесь](https://mywebcenter.ru/polnoe-rukovodstvo-po-maske-vvoda-v-1s-8-3/)
 
 </details>
 
