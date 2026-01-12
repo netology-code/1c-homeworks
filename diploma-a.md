@@ -207,6 +207,7 @@
 Алгоритмы расчёта:
 
 https://www.egrul.ru/test_inn.html
+
 https://keysystems.ru/files/fo/arm_budjet/show_docum/BKS/onlinehelp/index.html?ro_kr_algor_klyuch_inn.htm
 
 Реализуйте вызов этой функции в двух местах:
