@@ -30,11 +30,11 @@
 
 </details>
 <summary>Подсказка</summary>
-- Если возникнет проблема с паролем, можно зайти [сюда](https://login.1c.ru/user/profile) и по ссылке изменить пароль - задать пароль. Дальше он будет использоваться для developer.1c.ru.
 
-- Если возникают другие вопросы, можно зайти [сюда](https://developer.1c.ru/applications/Console?state=communit)
+1. Если возникнет проблема с паролем, можно зайти [сюда](https://login.1c.ru/user/profile) и по ссылке изменить пароль - задать пароль. Дальше он будет использоваться для developer.1c.ru.
+2. Если возникают другие вопросы, можно зайти [сюда](https://developer.1c.ru/applications/Console?state=communit)
 </details>
-</details>
+
 
 
 
